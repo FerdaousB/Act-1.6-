@@ -8,4 +8,5 @@
        - Comprendre comment tous ces éléments interagissent entre eux
        
   Passons à l’application ......
+  
        - Activité 1.6.1 : Streaming de musique
